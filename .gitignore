@@ -1,0 +1,32 @@
+.idea/
+out/
+*.iml
+*.xml
+*.iws
+*.ipr
+
+### Gradle ###
+.idea/
+.gradle
+gradle
+
+**/build/
+!src/**/build/
+
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually
+
+# Cache of project
+.gradletasknamecache
+
+gradlew.bat
+gradlew
+settings.gradle
+
+# Package Files #
+*.jar
+*.war
+*.ear
